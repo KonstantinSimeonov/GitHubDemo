@@ -1,0 +1,9 @@
+git clone URL - clone a remote
+git status - view the repo status
+git add . - add all files for commiting
+git commit -m "Commit message" - commit changes with message
+git push - update the remote repo
+
+
+git pull - update local repo from remote repo
+git reset HEAD <file> - remove <file> from changes to commit
