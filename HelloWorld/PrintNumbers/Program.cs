@@ -11,8 +11,8 @@ namespace PrintNumbers
         static void Main(string[] args)
         {
             Console.WriteLine(1);
-            Console.WriteLine(239874);
-            Console.WriteLine(221312);
+            Console.WriteLine(101);
+            Console.WriteLine(1001);
         }
     }
 }
