@@ -1,2 +1,2 @@
-# GitHubDemo
-Sample repository for github demos
+# Цъки,
+- кога ще пием водка???
